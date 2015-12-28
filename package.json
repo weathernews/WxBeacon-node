@@ -1,0 +1,29 @@
+{
+  "name": "wxbeacon-node",
+  "version": "1.0.0",
+  "description": "Node Library for WxBeacon weather sensor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weathernews/WxBeacon-node.git"
+  },
+  "keywords": [
+    "WxBeacon",
+    "Bluetooth",
+    "BLE",
+    "Weather",
+    "Sensor"
+  ],
+  "author": "Weathernews",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/weathernews/WxBeacon-node/issues"
+  },
+  "homepage": "https://github.com/weathernews/WxBeacon-node#readme",
+  "devDependencies": {
+    "bleacon": "*"
+  }
+}
