@@ -10,8 +10,9 @@ This is Node.js library for WxBeacon weather sensor
 ## Basic Usage
 
 * Clone repository or download source
-* ```npm update```
-* Edit/Run index.js
+* ```npm install```
+* Edit index.js
+* Run index.js ```node index.js```
 
 ## Support
 
